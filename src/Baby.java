@@ -6,10 +6,10 @@ public class Baby {
 String o = ("Oh");
 String n = ("No");
 String b = ("Baby");
-//Runtime.getRuntime().exec("say You know you love me, I know you care " +
-//"Just shout whenever, and I'll be there " +
-//"You are my love, you are my heart " +
-//"And we would never ever ever be apart " +
+Runtime.getRuntime().exec("say You know you love me, I know you care " +
+"Just shout whenever, and I'll be there " +
+"You are my love, you are my heart " +
+"And we would never ever ever be apart " +
 //"Are we an item? Girl, quit playing " +
 //"We're just friends, what are you saying? " +
 //"Say there's another and look right in my eyes " +
