@@ -15,7 +15,7 @@ public class DuellingButtons implements ActionListener {
 	JButton leftButton = new JButton();
 	JButton rightButton = new JButton();
 	
-	Dimension BIG = new Dimension(150,30);
+	Dimension BIG = new Dimension(150,90);
 	Dimension SMALL = new Dimension(100,30);
 	
 	JFrame frame = new JFrame();
