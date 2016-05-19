@@ -36,7 +36,7 @@ public class Binary implements ActionListener{
 	@Override
 	public void actionPerformed(ActionEvent e) {
 		// TODO Auto-generated method stub
-		String convert( );
+		
 	}
 
 }
